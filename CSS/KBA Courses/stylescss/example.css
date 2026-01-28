@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+
+    display: flex;
+    padding-top: 200px;
+   padding-left: 50px;
+   
+   
+}
+.one{
+   
+    border-left: solid 2px black;
+    padding:20px;
+}
+
+@media only screen and (min-width:600px){
+.main{display: flex;
+    padding-top: 200px;
+   padding-left: 50px;
+   
+   }
+.one{  border-left: solid 2px black;
+    padding:20px;}
+.heading{display: flex;justify-content: space-between;}
+}    

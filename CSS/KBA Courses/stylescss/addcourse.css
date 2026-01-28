@@ -1,0 +1,52 @@
+.tool {
+            background-color: rgb(224, 179, 245);
+            list-style-type: left;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navbar a {
+            text-decoration: none;
+            justify-content: end;
+            padding: 6px;
+        }
+
+        .navbar a:hover {
+            font-size: larger;
+            font-family: Arial, Helvetica, sans-serif;
+            color: blue;
+            background-color: aquamarine;
+        }
+
+        .tb h1 {
+            text-align: center;
+            color: rgb(199, 95, 240);
+        }
+
+        .tb input {
+            width: 400px;
+        }
+
+        .tb select {
+            width: 400px;
+        }
+
+        .tb {
+            padding-left: 10px;
+        }
+button{
+            background-color: blueviolet;
+            color: white;
+            width: 400px;
+            border-radius: 25px;
+        }
+        body{
+            margin: 0px;
+        }
+        .tb{
+            height: "300px"; width: "450px"; 
+            background-color: rgb(224, 179, 245);
+            margin-left: 650px;
+
+        }

@@ -1,0 +1,39 @@
+body{
+    background-image: url(Library-Management.jpg);
+    background-size: cover;
+}
+.main{
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    font-weight:bold;
+    margin-top:15px;
+    font-size: larger;
+    margin-right: 8px;
+    
+}
+a{
+    text-decoration: none;
+    font-size:larger;
+    color: rgb(35, 3, 239);
+}
+.main :hover{
+    background-color: rgb(237, 160, 104);
+    border-radius:22px;
+    color: black;
+}
+.head{
+    margin-top: 200px;
+    font-size: xx-large;
+    color: rgb(80, 13, 237);
+    
+}
+.one{
+    margin-left: 10px;
+}
+.two{
+    margin-left: 80px;
+}
+.three{
+    margin-left: 320px;
+}

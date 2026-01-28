@@ -1,0 +1,68 @@
+body {
+            margin: 0;
+        }
+
+        .tool {
+            background-color: rgb(224, 179, 245);
+            list-style-type: left;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navbar a {
+            text-decoration: none;
+            justify-content: end;
+            padding: 6px;
+        }
+
+        .navbar a:hover{
+            font-size: larger;
+            font-family: Arial, Helvetica, sans-serif;
+            color: blue;
+            background-color: aquamarine;
+        }
+        .one{
+            text-align: center;
+            background-color: rgb(224, 179, 245);
+            padding-top: 10px;
+        }
+        .two{
+            text-align: center;
+                        background-color: rgb(224, 179, 245);
+padding-top: 5px;
+padding-bottom: 5px;
+        }
+
+        .tb{
+         height: 400px;
+         width: 500px;
+        background-color: rgb(224, 179, 245);
+            margin-top: 100px;
+            padding-top: 6px;
+            padding-bottom: 6px;
+        }
+       .tb img{
+            height: 150px;
+            width: 180px;
+            padding-left: 160px;
+        }
+        input{
+            background-color: blueviolet;
+            color: white;
+        }
+        .th{
+            text-align: left;
+        }
+        .one p{
+            padding-bottom: 10px;
+        }
+        button{
+            background-color: blueviolet;
+            color: white;
+            margin-left: 800px;
+        }
+        h4{
+            padding-top: 20px;
+        }
+     

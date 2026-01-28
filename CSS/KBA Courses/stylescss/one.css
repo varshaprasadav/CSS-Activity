@@ -1,0 +1,20 @@
+.navbar a {
+            text-decoration: none;
+            justify-content: end;
+            padding: 6px;
+            
+        }
+    .navbar{
+        margin-left: 1290px;
+        display: flex;
+    }
+    .main{
+        display: flex;
+    }
+    .c{
+        padding-left: 8px;
+    }
+    button{
+        background-color: blue;
+        color: white;
+    }

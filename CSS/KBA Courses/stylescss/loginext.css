@@ -1,0 +1,31 @@
+body{
+            margin: 300px ;
+                    background-color: rgb(224, 179, 245);
+
+        }
+        .tb h1 {
+            text-align: center;
+            color: rgb(199, 95, 240);
+        }
+         .tb h5 {
+            text-align: center;
+        }
+        .login{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .tb input{
+            width: 400px;
+        }
+button{
+            background-color: blueviolet;
+            color: white;
+        }
+      .tb{
+        height: 100px;
+        width: 100px;
+                background-color: white;
+
+margin-left: 380px;
+      }

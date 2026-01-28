@@ -1,0 +1,49 @@
+body{
+            margin: 0px;
+        }
+        .tb{
+            height: "300px"; width: "450px"; 
+            background-color: whitesmoke;
+            margin-left: 650px;
+margin-top: 80px;
+height: 500px;
+width: 500px;
+padding-left: 22px;
+
+        }
+.main{
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.two a{
+    padding: 4px;
+    text-decoration: none;
+}
+.but{
+        background-color: blue;
+        color: white;
+        
+    }
+    .first{
+        align-items: center;
+        
+    }
+    td{
+        padding-left: 10px;
+        padding-top: 2px;
+
+    }
+    select{
+        width: 400px;
+    }
+    input{
+        width: 400px;
+    }
+    button{
+        background-color: blue;
+        color: white;
+    }
+    
+

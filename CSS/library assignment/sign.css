@@ -1,0 +1,64 @@
+main{
+     width: 100%;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.sign{
+    width: 430px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #7495db;
+    margin-top: 100px;
+}
+.one{
+    text-align: left;
+    margin-bottom: 20px;
+    
+}
+.one label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+}
+.one input{
+    width: 400px;
+    padding: 12px;
+    border: 1px solid #121213;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: #d9d9df;
+    
+}
+button{
+    width: 200px;
+    padding: 12px;
+    background-color: #1b73e8;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 17px;
+    margin-left: 100px;
+
+}
+body{
+    background-image:url(best-books-home-library-background-read-vintage-row-college-table-publishing-pile-old-lie-concept-vacation-161662282.webp);
+    background-size: cover;
+}
+h1{
+    margin-left: 120px;
+    margin-top: 50px;
+    font: size 45px;
+    color: #2310f1;
+}
+h5{
+    margin-left: 90px;
+    font: size 10px;;
+}
+a{
+    font-size:larger;
+    color: #1c05e4;
+}

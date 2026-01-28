@@ -1,0 +1,32 @@
+.navbar a {
+            text-decoration: none;
+            justify-content: end;
+            padding: 6px;
+            
+        }
+    .navbar{
+        margin-left: 1500px;
+        display: flex;
+    }
+    h2{
+        text-align: center;
+        margin-top: 120px;
+    }
+    img{
+        height:200px;
+        width: 180px;
+        margin-left: 800px;
+        
+    }
+    .one{
+        margin-left: 780px;
+    }
+
+    
+    .c{
+        padding-left: 8px;
+    }
+    button{
+        background-color: blue;
+        color: white;
+    }

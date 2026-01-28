@@ -1,0 +1,45 @@
+img{
+    height: 250px;
+    width: 200px;
+    padding-left: 8px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-decoration: underline;
+}
+h4{
+    color: rgb(10, 223, 81);
+    text-align: center;
+    
+}
+.a{
+    display: flex;
+}
+h5{
+    color: red;
+    text-align: center;
+}
+.b{
+    display: flex;
+}
+.c{
+    display: flex;
+}
+.main{
+    padding-left: 20px;
+}
+.log{
+    text-align: end;
+    font-size: larger;
+    padding-right: 3px;
+    padding-top: 2px;
+
+}
+a{
+    color: rgb(75, 94, 238);
+    text-decoration: none;
+    
+}
